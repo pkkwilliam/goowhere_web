@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/goowhere/static/css/main.7c4466c0.chunk.css",
+    "main.js": "/goowhere/static/js/main.465fc739.chunk.js",
+    "main.js.map": "/goowhere/static/js/main.465fc739.chunk.js.map",
+    "runtime-main.js": "/goowhere/static/js/runtime-main.646dbb9c.js",
+    "runtime-main.js.map": "/goowhere/static/js/runtime-main.646dbb9c.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/goowhere/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.ea777f58.chunk.js": "/goowhere/static/js/2.ea777f58.chunk.js",
+    "static/js/2.ea777f58.chunk.js.map": "/goowhere/static/js/2.ea777f58.chunk.js.map",
+    "static/js/3.68f92c49.chunk.js": "/goowhere/static/js/3.68f92c49.chunk.js",
+    "static/js/3.68f92c49.chunk.js.map": "/goowhere/static/js/3.68f92c49.chunk.js.map",
+    "index.html": "/goowhere/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/goowhere/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.7c4466c0.chunk.css.map": "/goowhere/static/css/main.7c4466c0.chunk.css.map",
+    "static/js/2.ea777f58.chunk.js.LICENSE.txt": "/goowhere/static/js/2.ea777f58.chunk.js.LICENSE.txt",
+    "static/media/gooWhereBackground.110a7d2e.jpg": "/goowhere/static/media/gooWhereBackground.110a7d2e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.646dbb9c.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.ea777f58.chunk.js",
+    "static/css/main.7c4466c0.chunk.css",
+    "static/js/main.465fc739.chunk.js"
+  ]
+}
